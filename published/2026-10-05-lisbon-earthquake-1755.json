@@ -1,0 +1,24 @@
+{
+  "media_id": "18492756961096528",
+  "permalink": "https://www.instagram.com/p/DeHFb9uDsC_/",
+  "account": "thorned.fate",
+  "published_at": "2026-10-05T11:18:52+00:00",
+  "image_urls": [
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-01.jpg",
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-02.jpg",
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-03.jpg",
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-04.jpg",
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-05.jpg",
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-06.jpg",
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-07.jpg",
+    "https://raw.githubusercontent.com/thornedfate-eng/thorned-fate-media/400452e862eea578285707b3c263afe0ce1a8a8a/2026-10-05-lisbon-earthquake-1755/slide-08.jpg"
+  ],
+  "superseded": [
+    {
+      "media_id": "18111367742166286",
+      "permalink": "https://www.instagram.com/p/DeHEXaWjuR_/",
+      "published_at": "2026-10-05T11:09:31+00:00",
+      "reason": "deleted by Ben and reposted: slide 6 and 7 image credits were wrong (Rousseau copy after La Tour; Baixa plan 1758)"
+    }
+  ]
+}
